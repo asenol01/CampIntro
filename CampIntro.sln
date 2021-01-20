@@ -9,11 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\Cl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler", "Donguler\Donguler.csproj", "{B7E73E0E-5FFA-4DCE-A75F-B5516ABD7893}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodlar", "Metodlar\Metodlar.csproj", "{F6D3F8E7-1C53-4EDF-B4CB-C0AECA985FEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metodlar", "Metodlar\Metodlar.csproj", "{F6D3F8E7-1C53-4EDF-B4CB-C0AECA985FEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{4A4EB6DF-C87C-4343-9487-927B16006711}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Matematik.csproj", "{4A4EB6DF-C87C-4343-9487-927B16006711}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{240A1A3D-11F4-44AA-AD47-27972B4C4E80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{240A1A3D-11F4-44AA-AD47-27972B4C4E80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{69A63652-72DC-4832-B151-E53A7318B6B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{240A1A3D-11F4-44AA-AD47-27972B4C4E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{240A1A3D-11F4-44AA-AD47-27972B4C4E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{240A1A3D-11F4-44AA-AD47-27972B4C4E80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69A63652-72DC-4832-B151-E53A7318B6B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A63652-72DC-4832-B151-E53A7318B6B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A63652-72DC-4832-B151-E53A7318B6B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A63652-72DC-4832-B151-E53A7318B6B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
