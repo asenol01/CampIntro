@@ -9,8 +9,15 @@ namespace OOP1
         //aynı (string ad) gibi
         public void Add(Product product)
         {
-            Console.WriteLine(product);
-
+            Console.WriteLine(product.ProductName + " eklendi.");
         }
+        //void: değer döndürmeyen. Emir Kipidir: Git-Yap-Bitir gibi
+
+        public void Update(Product product)
+        {
+            Console.WriteLine(product.ProductName + " güncellendi.");
+        }
+
+        
     }
 }

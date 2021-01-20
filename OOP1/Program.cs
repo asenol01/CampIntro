@@ -20,6 +20,14 @@ namespace OOP1
             ProductManager productManager = new ProductManager();
             productManager.Add(product1);
 
+
+            //int doube bool ......değer tip - göderilen sayı ile gelen farklıdır. Değer kopar
+            // diziler, class, interface ..... referans tip  - bellek lokasyonu yollanır
+            //ref - out izleeee
+
+
+
+
         }
     }
 }
