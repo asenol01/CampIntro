@@ -4,10 +4,10 @@ using System.Text;
 
 namespace Odev_Dictionary
 {
-    class MyNewList<T>
+    class MyDictionary<T>
     {
         T[] items;
-        public MyNewList()
+        public MyDictionary()
         {
             items = new T[0];
         }
@@ -25,11 +25,11 @@ namespace Odev_Dictionary
 
         }
 
-        public void Show()
+        public void Goster()
         {
             for (int i = 0; i < items.Length; i++)
             {
-                Console.WriteLine(items[i] + " ");
+                Console.Write(items[i] + "-");
             }
         }
     }

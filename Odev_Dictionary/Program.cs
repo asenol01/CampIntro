@@ -6,12 +6,13 @@ namespace Odev_Dictionary
     {
         static void Main(string[] args)
         {
-            MyNewList<string> myNewList = new MyNewList<string>();
+            MyDictionary<string> myNewList = new MyDictionary<string>();
             myNewList.Add("A");
             myNewList.Add("B");
             myNewList.Add("C");
-            myNewList.Show();
-            Console.ReadLine();
+            
+            myNewList.Goster();
+           
         }
     }
 }
