@@ -23,6 +23,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev_Dictionary", "Odev_Dictionary\Odev_Dictionary.csproj", "{227C1302-C14F-4F11-A822-14C4CA2B20D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{408EB695-D782-48D7-BAE5-A2020F6583C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{5DC5077D-CEC2-4352-B2D9-1C2116B5AC3F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{227C1302-C14F-4F11-A822-14C4CA2B20D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{227C1302-C14F-4F11-A822-14C4CA2B20D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{227C1302-C14F-4F11-A822-14C4CA2B20D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{408EB695-D782-48D7-BAE5-A2020F6583C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{408EB695-D782-48D7-BAE5-A2020F6583C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{408EB695-D782-48D7-BAE5-A2020F6583C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{408EB695-D782-48D7-BAE5-A2020F6583C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DC5077D-CEC2-4352-B2D9-1C2116B5AC3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC5077D-CEC2-4352-B2D9-1C2116B5AC3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC5077D-CEC2-4352-B2D9-1C2116B5AC3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC5077D-CEC2-4352-B2D9-1C2116B5AC3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
